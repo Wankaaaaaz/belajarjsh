@@ -1,1 +1,2 @@
-Proyek ini dibuat untuk latihan membuat login sederhana
+latihan membuat login sederhana
+ https://github.com/Wankaaaaaz/belajarjsh.git
